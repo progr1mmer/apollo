@@ -5,5 +5,5 @@
   * 启动此服务，访问: [http://localhost:8080/index.html](http://localhost:8080/index.html)
   * 客户端使用与主干无疑
 * **注意事项**
-  * 使用认证环境的时候请确保[com.ctrip.framework.apollo.portal.component.RetryableRestTemplate](https://github.com/progr1mmer/apollo/tree/master/apollo-server/src/com/ctrip/framework/apollo/portal/component/RetryableRestTemplate.java)拥有root权限账号的http-basic认证信息
+  * 使用认证环境的时候请确保[com.ctrip.framework.apollo.portal.component.RetryableRestTemplate](https://github.com/progr1mmer/apollo/blob/master/apollo-server/src/main/java/com/ctrip/framework/apollo/portal/component/RetryableRestTemplate.java)拥有root权限账号的http-basic认证信息
   * 启动的时候会有一些报错信息，属于正常情况，请忽略
