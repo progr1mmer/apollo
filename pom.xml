@@ -109,7 +109,8 @@
 		<module>apollo-demo</module>
 		<module>apollo-mockserver</module>
 		<module>apollo-openapi</module>
-	</modules>
+        <module>apollo-server</module>
+    </modules>
 
 	<dependencyManagement>
 		<dependencies>
